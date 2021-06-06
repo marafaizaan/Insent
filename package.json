@@ -1,0 +1,21 @@
+{
+  "name": "Insent",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "webdriverio": "^7.7.3"
+  },
+  "devDependencies": {
+    "@wdio/selenium-standalone-service": "^7.7.3",
+    "codeceptjs": "^3.0.7",
+    "wdio-selenium-standalone-service": "0.0.12",
+    "webdriver": "^7.7.3"
+  }
+}
